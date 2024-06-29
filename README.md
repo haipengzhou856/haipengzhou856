@@ -2,7 +2,7 @@
 * This is Rydeen, Haipeng ZHOU, PhD student from HKUST(GZ).<br>
 * Working on Computer Vision.<be>
 <center>
-  <img src="https://github.com/lesslie856/lesslie856.github.io/blob/main/caprice_fig/meme_net.png"  title=":p">
+  <img src="https://github.com/lesslie856/lesslie856.github.io/blob/main/caprice_fig/meme_net.png" width="500" title=":p">
 </center>
 * Know more at my [Personal Site](https://rydeen856.site/) or [Academic Site](https://haipengzhou856.github.io/). <br>
 
