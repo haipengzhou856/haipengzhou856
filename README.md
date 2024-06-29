@@ -1,7 +1,7 @@
 ## Hi there!
-This is Rydeen, Haipeng ZHOU, PhD student from HKUST(GZ).
-Working on Computer Vision.
-Know more at my [Personal Site](https://rydeen856.site/) or [Academic Site](https://haipengzhou856.github.io/).
+This is Rydeen, Haipeng ZHOU, PhD student from HKUST(GZ).<br>
+Working on Computer Vision.<br>
+Know more at my [Personal Site](https://rydeen856.site/) or [Academic Site](https://haipengzhou856.github.io/). <br>
 
 <!--
 **haipengzhou856/haipengzhou856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
