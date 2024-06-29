@@ -1,10 +1,12 @@
 ## Hi there!
 * This is Rydeen, Haipeng ZHOU, PhD student from HKUST(GZ).<br>
-* Working on Computer Vision.<be>
+* Working on Computer Vision.<br>
 <center>
   <img src="https://github.com/lesslie856/lesslie856.github.io/blob/main/caprice_fig/meme_net.png" width="500" title=":p">
 </center>
-* Know more at my [Personal Site](https://rydeen856.site/) or [Academic Site](https://haipengzhou856.github.io/). <br>
+
+* Know more at my <a href="https://rydeen856.site/"><font face="Maiandra GD">Personal Site</font> </a> or <a href="https://haipengzhou856.github.io/"><font face="Maiandra GD">Academic Site</font> </a>
+        </div> <br>
 
 <!--
 **haipengzhou856/haipengzhou856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
