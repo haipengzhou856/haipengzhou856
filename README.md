@@ -5,7 +5,7 @@
   <img src="https://github.com/lesslie856/lesslie856.github.io/blob/main/caprice_fig/meme_net.png" width="500" title=":p">
 </center>
 
-* Know more at my <a href="https://rydeen856.site/"><font face="Maiandra GD">Personal Site</font> </a> or <a href="https://haipengzhou856.github.io/"><font face="Maiandra GD">Academic Site</font> </a>
+* Get more information about me at my <a href="https://haipengzhou856.github.io/"><font face="Maiandra GD">Academic Site</font> </a> or <a href="https://rydeen856.site/"><font face="Maiandra GD">Personal Site</font> </a>.
         </div> <br>
 
 <!--
