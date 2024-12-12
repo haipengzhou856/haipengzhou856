@@ -1,6 +1,6 @@
 ## Hi there!
-* This is Rydeen, Haipeng ZHOU,(周海鹏), PhD student from HKUST(GZ).<br>
-* Working on Computer Vision.<br>
+* This is Rydeen, Haipeng ZHOU,(周海鹏), PhD student from HKUST(GZ). Previously B.E. from XJTU, feel free to contact me.<br>
+* Working on High-resolution parsing, LVM, and medical image processing.<br>
 <center>
   <img src="https://github.com/lesslie856/lesslie856.github.io/blob/main/caprice_fig/meme_net.png" width="500" title=":p">
 </center>
